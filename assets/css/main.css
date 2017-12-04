@@ -1,0 +1,9 @@
+.button-row , .table-row , .table-row-two{
+	margin-left: 0;
+}
+
+.img-thumbnail{
+	background-color: #ddd;
+	border: 3px solid #ccc;
+
+}
