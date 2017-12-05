@@ -1,4 +1,6 @@
-.button-row , .table-row , .table-row-two{
+.button-row , .table-row , .lab-row , .img-row , .bad-row ,
+.drop-row , .nav-row , .bars-row , .al-row , .pro-row , .list-row ,
+.pan-row{
 	margin-left: 0;
 }
 
@@ -6,4 +8,8 @@
 	background-color: #ddd;
 	border: 3px solid #ccc;
 
+}
+
+.column-left , .pan-cont{
+	padding-left: 0;
 }
